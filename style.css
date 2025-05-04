@@ -1,0 +1,35 @@
+/* comment */
+
+body {
+	background-color: MidnightBlue;
+	font-family: Trebuchet MS;
+	font-size: 18px;
+}
+
+#container {
+	width: 650px;
+	margin: 0 auto;
+}
+
+h1 {
+	/* text color */
+	color: greenyellow;
+	font-family: Tahoma, Arial Black;
+	font-size: 40px;
+	border: 8px solid #3CB371;
+	padding: 14px;
+	text-align: center;
+	border-radius: 12px;
+}
+
+#container {
+	width: 650px;
+	margin: 0 auto;
+
+p {
+	color: yellow;
+}
+
+a {
+	color: magenta;
+}
