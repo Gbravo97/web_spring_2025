@@ -1,11 +1,9 @@
 /* comment */
 
 body {
-	background-color: lavenderblush;
-	font-family: trebuchet MS;
-	font-size: 28px;
-	font-weight: bold;
-	text-align: center; /* Centers all text in the body */
+	background-color: MidnightBlue;
+	font-family: Trebuchet MS;
+	font-size: 18px;
 }
 
 #container {
@@ -15,13 +13,13 @@ body {
 
 h1 {
 	/* text color */
-	color: hotpink;
-	font-family: Georgia;
+	color: greenyellow;
+	font-family: Tahoma, Arial Black;
 	font-size: 40px;
-	border: 8px dotted; #FFB6C1;
-	padding: 24px;
+	border: 8px solid #3CB371;
+	padding: 14px;
 	text-align: center;
-	border-radius: 31px;
+	border-radius: 12px;
 }
 
 #container {
@@ -29,7 +27,11 @@ h1 {
 	margin: 0 auto;
 
 p {
-	color: mediumaquamarine;
+	color: yellow;
+}
+
+a {
+	color: magenta;
 }
 
 img {
